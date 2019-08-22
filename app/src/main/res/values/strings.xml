@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EncryptedSharedPreferences</string>
+    <string name="saved">Saved !</string>
+    <string name="retrieved_value">Retrieved value :</string>
+</resources>
